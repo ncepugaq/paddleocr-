@@ -1,0 +1,5 @@
+paddlex>=3.6.0
+gradio>=6.0
+pillow>=10.0
+PyMuPDF>=1.24.0
+numpy>=1.24
